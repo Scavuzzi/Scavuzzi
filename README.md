@@ -1,15 +1,10 @@
 <div align="center">
 
-<!-- HEADER PIXELADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&section=header"/>
-███████╗███╗   ██╗ ██████╗ ███████╗███████╗███████╗██╗  ████████╗
-██╔════╝████╗  ██║██╔════╝ ██╔════╝██╔════╝██╔════╝██║  ╚══██╔══╝
-█████╗  ██╔██╗ ██║██║  ███╗█████╗  ███████╗█████╗  ██║     ██║
-██╔══╝  ██║╚██╗██║██║   ██║██╔══╝  ╚════██║██╔══╝  ██║     ██║
-███████╗██║ ╚████║╚██████╔╝███████╗███████║███████╗███████╗██║
-╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚══════╝╚═╝
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=800&lines=ENGENHEIRO+DE+AUTOMACAO;DESENVOLVEDOR+DE+PLUGINS+CAD;ESPECIALISTA+EM+DADOS;CRIANDO+FERRAMENTAS+DE+ENGENHARIA"/>
+# 🎮 ENGESELT ENGINEERING
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=ENGENHEIRO+DE+AUTOMACAO;DESENVOLVEDOR+DE+PLUGINS+CAD;ESPECIALISTA+EM+DADOS;CRIANDO+FERRAMENTAS+DE+ENGENHARIA"/>
 
 </div>
 
@@ -17,58 +12,24 @@
 
 ## 🕹️ PERFIL DO JOGADOR
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   NÍVEL: ███████████████░░░░░░ 75                            ║
-║                                                               ║
-║   ┌─────────────────────────────────────────────────────┐    ║
-║   │ CLASSE: Especialista em Automação de Engenharia    │    ║
-║   │ GUILDA: Engeselt Engenharia                        │    ║
-║   │ REGIÃO: Brasil 🇧🇷                                  │    ║
-║   └─────────────────────────────────────────────────────┘    ║
-║                                                               ║
-║   ATRIBUTOS PRINCIPAIS:                                       ║
-║   ├─ AUTOMAÇÃO       [████████████████████░] 95%             ║
-║   ├─ CIÊNCIA DADOS   [███████████████░░░░░] 75%             ║
-║   ├─ FERRAMENTAS CAD [██████████████████░░] 90%             ║
-║   ├─ APPS DESKTOP    [█████████████████░░░] 85%             ║
-║   └─ WEB SCRAPING    [███████████████████░] 92%             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## ⚔️ ÁRVORE DE HABILIDADES
-
 <table>
 <tr>
-<td width="33%" align="center">
+<td>
 
-### 🐍 DOMÍNIO BACKEND
-[████████] MAX
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs&perline=2" />
-
-**Python** • **C#** • **.NET** • **Node.js**
-
-</td>
-<td width="33%" align="center">
-
-### 🗄️ REINO DOS DADOS
-[███████░] 87%
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=3" />
-
-**SQL** • **Power BI** • **Pipelines ETL**
+**👤 CLASSE:** Especialista em Automação de Engenharia  
+**🏢 GUILDA:** Engeselt Engenharia  
+**📍 REGIÃO:** Brasil 🇧🇷  
+**⭐ NÍVEL:** 75
 
 </td>
-<td width="33%" align="center">
+<td>
 
-### 🎨 ARTE FRONTEND
-[██████░░] 75%
-<img src="https://skillicons.dev/icons?i=html,css,js,electron&perline=2" />
-
-**Electron** • **UI Desktop** • **Web Apps**
+**ATRIBUTOS:**
+- 🔥 AUTOMAÇÃO **████████████░** 95%
+- 📊 DADOS **███████████░░** 75%
+- 🏗️ CAD **█████████████░** 90%
+- 💻 DESKTOP **████████████░** 85%
+- 🌐 WEB SCRAPING **█████████████░** 92%
 
 </td>
 </tr>
@@ -76,18 +37,20 @@
 
 ---
 
-## 🎯 FERRAMENTAS EQUIPADAS
+## ⚔️ ARSENAL TECNOLÓGICO
 
 <div align="center">
 
-### ⚙️ ARMAS PRINCIPAIS
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,electron,git,github,vscode,visualstudio&perline=9" />
+### 🎯 STACK PRINCIPAL
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,electron,mysql,sqlite,postgres,git,vscode,visualstudio&perline=11" />
 
-### 🛡️ EQUIPAMENTO SECUNDÁRIO
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+### 🛠️ FERRAMENTAS ESPECIALIZADAS
 
-### 🗡️ ARTEFATOS ESPECIAIS
-<img src="https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/NanoCAD-0066CC?style=for-the-badge"/> <img src="https://img.shields.io/badge/GStarCAD-0047AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/ZWCAD-006838?style=for-the-badge"/> <img src="https://img.shields.io/badge/DXF_API-FF6B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+### 🏗️ ECOSSISTEMA CAD
+
+<img src="https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/NanoCAD-0066CC?style=for-the-badge"/> <img src="https://img.shields.io/badge/GStarCAD-0047AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/ZWCAD-006838?style=for-the-badge"/>
 
 </div>
 
@@ -99,40 +62,32 @@
 <tr>
 <td width="50%">
 
-### ⚡ Missão: Sistema de Plugins InfoCAD
-STATUS: [▓▓▓▓▓▓▓▓▓░] Em Progresso
+### ⚡ InfoCAD - Sistema de Plugins
+**STATUS:** `▓▓▓▓▓▓▓▓▓░` 90%
 
-**📋 Objetivos:**
-- [x] Camada de compatibilidade multi-CAD
-- [x] Motor de processamento DXF
-- [x] Gerador dinâmico de tabelas
-- [x] Kit de análise de desenhos
-- [ ] Detecção de blocos com IA
-- [ ] Integração com nuvem
+Ecossistema completo de plugins para:
+- NanoCAD, GStarCAD, ZWCAD
+- Processamento DXF avançado
+- Geração dinâmica de tabelas
+- Análise automatizada de desenhos
+- Fluxos de trabalho de engenharia
 
-**🎁 Recompensas:**
-- Automação de fluxos de engenharia
-- Redução de 70% no tempo de tarefas
-- Ecossistema CAD multiplataforma
+**TECH:** `Python` `C#` `.NET` `DXF API`
 
 </td>
 <td width="50%">
 
-### 🤖 Missão: Plataforma de Automação Web
-STATUS: [▓▓▓▓▓▓▓▓░░] 80% Completa
+### 🤖 Plataforma de Automação Web
+**STATUS:** `▓▓▓▓▓▓▓▓░░` 80%
 
-**📋 Objetivos:**
-- [x] Integração WhatsApp Business API
-- [x] Pipeline de extração de PDFs
-- [x] Sistema de processamento OCR
-- [x] Automação multi-navegador
-- [ ] Deploy headless
-- [ ] Dashboard de monitoramento
+Sistema robusto de automação:
+- Integração WhatsApp Business
+- Extração inteligente de PDFs
+- Pipeline OCR completo
+- Automação multi-navegador
+- Processamento zero-click
 
-**🎁 Recompensas:**
-- Processamento de docs sem cliques
-- Extração de dados em tempo real
-- Automação escalável
+**TECH:** `Python` `Selenium` `Playwright` `OCR`
 
 </td>
 </tr>
@@ -140,38 +95,32 @@ STATUS: [▓▓▓▓▓▓▓▓░░] 80% Completa
 <tr>
 <td width="50%">
 
-### 📄 Missão: Integração NFS-e
-STATUS: [▓▓▓▓▓▓▓▓▓▓] Completa!
+### 📄 Integração Fiscal NFS-e
+**STATUS:** `▓▓▓▓▓▓▓▓▓▓` 100% ✅
 
-**📋 Objetivos:**
-- [x] Protocolo ABRASF 2.0
-- [x] Assinatura digital XML
-- [x] Comunicação SOAP
-- [x] Fluxo de emissão automatizado
-- [x] Compatibilidade com várias cidades
+Solução completa ABRASF:
+- Protocolo ABRASF 2.0
+- Assinatura digital XML
+- Comunicação SOAP
+- Emissão automatizada
+- 50+ municípios integrados
 
-**🎁 Recompensas:**
-- Automação de conformidade fiscal
-- Geração de notas em segundos
-- Integração com 50+ municípios
+**TECH:** `C#` `.NET` `SOAP` `XML Signature`
 
 </td>
 <td width="50%">
 
-### 📊 Missão: Motor de Analytics BI
-STATUS: [▓▓▓▓▓▓▓░░░] 70% Completo
+### 📊 Motor de Analytics BI
+**STATUS:** `▓▓▓▓▓▓▓░░░` 70%
 
-**📋 Objetivos:**
-- [x] Modelagem de dados Power BI
-- [x] Dashboards KPI em tempo real
-- [x] Rastreamento de métricas de engenharia
-- [ ] Camada de analytics preditiva
-- [ ] App mobile de relatórios
+Business Intelligence:
+- Dashboards Power BI
+- KPIs em tempo real
+- Métricas de engenharia
+- ETL customizado
+- Análises operacionais
 
-**🎁 Recompensas:**
-- Decisões baseadas em dados
-- Insights executivos
-- Otimização de performance
+**TECH:** `Power BI` `SQL` `Python` `DAX`
 
 </td>
 </tr>
@@ -179,96 +128,66 @@ STATUS: [▓▓▓▓▓▓▓░░░] 70% Completo
 
 ---
 
-## 📊 ESTATÍSTICAS DE BATALHA
+## 📊 ESTATÍSTICAS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff&border_radius=10&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff"/>
 
-### 🔥 SEQUÊNCIA DE COMBOS
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Scavuzzi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&border_radius=10"/>
-
-### ⚡ GRÁFICO DE ATIVIDADE
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=1a1a2e&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Scavuzzi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
 
 </div>
 
 ---
 
-## 🏆 CONQUISTAS DESBLOQUEADAS
+## 🏆 CONQUISTAS
 
 <div align="center">
 
-| 🎖️ Conquista | Descrição | Status |
+| 🎖️ | Conquista | Status |
 |:---:|:---|:---:|
-| 🐍 **Mestre Python** | 5+ anos de automação | ✅ |
-| 🏗️ **Arquiteto CAD** | Ecossistema de plugins multiplataforma | ✅ |
-| 📊 **Mago dos Dados** | Dashboards Power BI implantados | ✅ |
-| 🤖 **Comandante de Bots** | 20+ scripts de automação | ✅ |
-| 📄 **Cavaleiro Fiscal** | Integração NFS-e completa | ✅ |
-| ⚡ **Corredor Veloz** | 70% otimização de processos | ✅ |
-| 🔧 **Forjador de Ferramentas** | Ferramentas customizadas de engenharia | 🔄 |
-| 🌐 **Conjurador de APIs** | Integrações REST/SOAP | 🔄 |
+| 🐍 | **Mestre Python** - 5+ anos de automação | ✅ |
+| 🏗️ | **Arquiteto CAD** - Ecossistema multi-plataforma | ✅ |
+| 📊 | **Mago dos Dados** - Dashboards BI em produção | ✅ |
+| 🤖 | **Comandante de Bots** - 20+ automações ativas | ✅ |
+| 📄 | **Cavaleiro Fiscal** - NFS-e completa | ✅ |
+| ⚡ | **Corredor Veloz** - 70% otimização de processos | ✅ |
 
 </div>
 
 ---
 
-## 🎮 MASMORRA TECNOLÓGICA
-
-<div align="center">
-🏰 EXPLORANDO ATUALMENTE:
-├─ 🤖 Camada de Integração IA
-│  ├─ API GPT-4 para automação CAD
-│  ├─ Visão computacional para desenhos
-│  └─ NLP para especificações técnicas
+## 🎯 FOCO ATUAL
+🔬 EXPLORANDO AGORA:
 │
-├─ 🌩️ Infraestrutura em Nuvem
-│  ├─ Pipelines de deploy Azure
-│  ├─ Containerização Docker
-│  └─ Orquestração Kubernetes
+├─ 🤖 IA para Engenharia
+│  └─ Assistentes inteligentes para CAD
 │
-└─ 🧪 Interesses de Pesquisa
-├─ Assistentes IA para engenharia
-├─ Geração automática de código
-└─ Sistemas de manutenção preditiva
-
-</div>
+├─ 🌩️ Cloud & DevOps
+│  └─ Azure + Docker + K8s
+│
+└─ 🧠 Analytics Avançado
+└─ Manutenção preditiva
 
 ---
 
-## 🌐 CONTATOS DA GUILDA
+## 🌐 CONTATO
 
 <div align="center">
 
-<a href="https://github.com/Scavuzzi">
-<img src="https://img.shields.io/badge/🎮_GITHUB-PERFIL-00d9ff?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="mailto:chatgpt.dci@engeselt.com.br">
-<img src="https://img.shields.io/badge/📧_EMAIL-CONTATO-00d9ff?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-</a>
-<a href="https://www.linkedin.com/company/engeselt">
-<img src="https://img.shields.io/badge/💼_LINKEDIN-CONECTAR-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Scavuzzi)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chatgpt.dci@engeselt.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/engeselt)
 
 </div>
 
 ---
 
 <div align="center">
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║  "Construindo ferramentas que engenheiros realmente      ║
-║   querem usar"                                           ║
-║                                                           ║
-║  💾 SALVANDO PROGRESSO...                                 ║
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%                              ║
-║                                                           ║
-║  🎯 PRÓXIMA MISSÃO: Assistente de Engenharia com IA      ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1a1a2e,50:16213e,100:0f3460&section=footer"/>
+**💾 "Construindo ferramentas que engenheiros realmente querem usar"**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a2e,50:16213e,100:0f3460&section=footer"/>
 
 </div>
