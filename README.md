@@ -1,193 +1,21 @@
-<div align="center">
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2D6CDF,45:7C3AED,100:F97316&text=Andr%C3%A9%20Scavuzzi&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=@Scavuzzi%20%7C%20perfil%20pessoal%20de%20desenvolvimento&descAlignY=58&animation=fadeIn" alt="André Scavuzzi banner" /> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=true&vCenter=true&width=760&lines=criando+interfaces%2C+scripts+e+ideias;transformando+curiosidade+em+codigo;sempre+upando+um+pouco+por+dia" alt="Typing SVG" /> </div> <br />
+checkpoint
+Oi, eu sou André Scavuzzi. Gosto de tecnologia com cara de coisa feita por gente: interfaces bem pensadas, automações que economizam tempo e pequenos projetos que deixam uma ideia mais jogável, visual e interessante.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&section=header"/>
+Meu perfil aqui é um espaço pessoal para registrar evolução, experimentos e projetos que misturam código, criatividade e aprendizado constante.
 
-# 🎮 ENGESELT ENGINEERING
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&lines=ENGENHEIRO+DE+AUTOMACAO;DESENVOLVEDOR+DE+PLUGINS+CAD;ESPECIALISTA+EM+DADOS;CRIANDO+FERRAMENTAS+DE+ENGENHARIA"/>
-
-</div>
-
----
-
-## 🕹️ PERFIL DO JOGADOR
-
-<table>
-<tr>
-<td>
-
-**👤 CLASSE:** Especialista em Automação de Engenharia  
-**🏢 GUILDA:** Engeselt Engenharia  
-**📍 REGIÃO:** Brasil 🇧🇷  
-**⭐ NÍVEL:** 75
-
-</td>
-<td>
-
-**ATRIBUTOS:**
-- 🔥 AUTOMAÇÃO **████████████░** 95%
-- 📊 DADOS **███████████░░** 75%
-- 🏗️ CAD **█████████████░** 90%
-- 💻 DESKTOP **████████████░** 85%
-- 🌐 WEB SCRAPING **█████████████░** 92%
-
-</td>
-</tr>
-</table>
-
----
-
-## ⚔️ ARSENAL TECNOLÓGICO
-
-<div align="center">
-
-### 🎯 STACK PRINCIPAL
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,electron,mysql,sqlite,postgres,git,vscode,visualstudio&perline=11" />
-
-### 🛠️ FERRAMENTAS ESPECIALIZADAS
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-### 🏗️ ECOSSISTEMA CAD
-
-<img src="https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/NanoCAD-0066CC?style=for-the-badge"/> <img src="https://img.shields.io/badge/GStarCAD-0047AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/ZWCAD-006838?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🗺️ MISSÕES ATIVAS
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ InfoCAD - Sistema de Plugins
-**STATUS:** `▓▓▓▓▓▓▓▓▓░` 90%
-
-Ecossistema completo de plugins para:
-- NanoCAD, GStarCAD, ZWCAD
-- Processamento DXF avançado
-- Geração dinâmica de tabelas
-- Análise automatizada de desenhos
-- Fluxos de trabalho de engenharia
-
-**TECH:** `Python` `C#` `.NET` `DXF API`
-
-</td>
-<td width="50%">
-
-### 🤖 Plataforma de Automação Web
-**STATUS:** `▓▓▓▓▓▓▓▓░░` 80%
-
-Sistema robusto de automação:
-- Integração WhatsApp Business
-- Extração inteligente de PDFs
-- Pipeline OCR completo
-- Automação multi-navegador
-- Processamento zero-click
-
-**TECH:** `Python` `Selenium` `Playwright` `OCR`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📄 Integração Fiscal NFS-e
-**STATUS:** `▓▓▓▓▓▓▓▓▓▓` 100% ✅
-
-Solução completa ABRASF:
-- Protocolo ABRASF 2.0
-- Assinatura digital XML
-- Comunicação SOAP
-- Emissão automatizada
-- 50+ municípios integrados
-
-**TECH:** `C#` `.NET` `SOAP` `XML Signature`
-
-</td>
-<td width="50%">
-
-### 📊 Motor de Analytics BI
-**STATUS:** `▓▓▓▓▓▓▓░░░` 70%
-
-Business Intelligence:
-- Dashboards Power BI
-- KPIs em tempo real
-- Métricas de engenharia
-- ETL customizado
-- Análises operacionais
-
-**TECH:** `Power BI` `SQL` `Python` `DAX`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 ESTATÍSTICAS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00d9ff&text_color=ffffff"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Scavuzzi&theme=tokyonight&hide_border=true&background=1a1a2e&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff"/>
-
-</div>
-
----
-
-## 🏆 CONQUISTAS
-
-<div align="center">
-
-| 🎖️ | Conquista | Status |
-|:---:|:---|:---:|
-| 🐍 | **Mestre Python** - 5+ anos de automação | ✅ |
-| 🏗️ | **Arquiteto CAD** - Ecossistema multi-plataforma | ✅ |
-| 📊 | **Mago dos Dados** - Dashboards BI em produção | ✅ |
-| 🤖 | **Comandante de Bots** - 20+ automações ativas | ✅ |
-| 📄 | **Cavaleiro Fiscal** - NFS-e completa | ✅ |
-| ⚡ | **Corredor Veloz** - 70% otimização de processos | ✅ |
-
-</div>
-
----
-
-## 🎯 FOCO ATUAL
-🔬 EXPLORANDO AGORA:
-│
-├─ 🤖 IA para Engenharia
-│  └─ Assistentes inteligentes para CAD
-│
-├─ 🌩️ Cloud & DevOps
-│  └─ Azure + Docker + K8s
-│
-└─ 🧠 Analytics Avançado
-└─ Manutenção preditiva
-
----
-
-## 🌐 CONTATO
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Scavuzzi)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:chatgpt.dci@engeselt.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/engeselt)
-
-</div>
-
----
-
-<div align="center">
-
-**💾 "Construindo ferramentas que engenheiros realmente querem usar"**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a2e,50:16213e,100:0f3460&section=footer"/>
-
-</div>
+<br />
+missões ativas
+Construir projetos bonitos, úteis e com personalidade.
+Aprender melhor fazendo, quebrando, ajustando e refinando.
+Explorar desenvolvimento web, automações, dados e ferramentas que resolvem problemas reais.
+Manter este perfil como uma vitrine viva do que estou estudando e criando.
+<br />
+inventário
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,vscode&theme=dark" alt="Tech stack icons" /> <br /> <br /> <img src="https://img.shields.io/badge/Python-2D6CDF?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /> <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1F2937" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div> <br />
+tela de status
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> </div> <br />
+mapa
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> </div> <br />
+missões secundárias
+<table> <tr> <td width="50%"> <strong>Agora</strong><br /> Melhorando fundamentos, criando pequenos projetos e deixando meu fluxo de estudo mais consistente. </td> <td width="50%"> <strong>Próximo nível</strong><br /> Projetos mais completos, mais interface, mais automação e mais código com acabamento. </td> </tr> </table> <br /> <div align="center"> <a href="https://github.com/Scavuzzi"> <img src="https://img.shields.io/badge/GitHub-Scavuzzi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Scavuzzi" /> </a> <br /> <br /> <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2D6CDF,50:FFD166,100:F97316" alt="divider" /> </div>
