@@ -1,63 +1,121 @@
-# 👋 Olá, eu sou a Engeselt Engenharia
+<div align="center">
 
-### Automação • Python • Power BI • CAD Plugins • Desktop Apps
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e3a8a,100:38bdf8&text=ENGESELT%20ENGINEERING&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Automation%20•%20Data%20•%20Desktop%20Apps%20•%20CAD&descAlignY=58"/>
 
-Desenvolvo soluções focadas em automação de processos, engenharia, análise de dados e aplicações desktop.
+<br>
 
-Atualmente trabalho com:
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=2000&color=38BDF8&center=true&vCenter=true&width=900&lines=AUTOMATION+SYSTEMS;POWER+BI+%26+DATA+ANALYTICS;CAD+PLUGINS+%26+DESKTOP+TOOLS;PYTHON+%7C+C%23+%7C+NODE.JS+%7C+SQL"/>
 
-- ⚡ Automação de processos corporativos
-- 📊 Dashboards e indicadores em Power BI
-- 🐍 Desenvolvimento Python
-- 🖥️ Aplicações Desktop (Flet, Electron, MAUI)
-- 🏗️ Plugins CAD para NanoCAD/GStarCAD/ZWCAD
-- 🌐 APIs e integrações
-- 🤖 Selenium, Playwright e automações web
-- 📄 Emissão automatizada de documentos e NFS-e
+</div>
 
 ---
 
-## 🚀 Tecnologias
+# 🎮 SYSTEM STATUS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+```txt
+[■■■■■■■■■■■■■■■■■■■■] 100%
 
----
+> Engineering Automation
+> Data Analytics
+> CAD Tooling
+> Web Automation
+> Desktop Applications
+> API Integrations
+🧠 ABOUT
+name: Engeselt Engenharia
+focus:
+  - Process Automation
+  - Engineering Solutions
+  - Business Intelligence
+  - Desktop Applications
+  - CAD Ecosystem
 
-## 📌 Projetos em destaque
+main_stack:
+  - Python
+  - C#
+  - .NET
+  - Power BI
+  - Node.js
+  - Electron
+  - Selenium
+  - Playwright
 
-### ⚡ InfoCAD
-Plugin CAD para automação de desenhos técnicos e geração de tabelas para NanoCAD/GStarCAD/ZWCAD.
+currently_building:
+  - CAD plugins
+  - Automation platforms
+  - NFS-e integrations
+  - AI-assisted workflows
+  - Internal engineering systems
+⚙️ TECH STACK
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cs,dotnet,nodejs,electron,mysql,sqlite,git,github,vscode"/>
 
-### 📄 Sistema de Emissão NFS-e
-Aplicação para geração, assinatura e envio automático de notas fiscais via WebService ABRASF.
+<br><br>
 
-### 🤖 Automação WhatsApp + Electron
-Sistema desktop para disparo automatizado de mensagens, mídias e gerenciamento de campanhas.
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge"/> <img src="https://img.shields.io/badge/NanoCAD-0066CC?style=for-the-badge"/> <img src="https://img.shields.io/badge/GStarCAD-0047AB?style=for-the-badge"/> </div>
+🕹️ ACTIVE PROJECTS
+<table> <tr> <td width="50%">
+⚡ InfoCAD
 
-### 📊 Dashboards Power BI
-Painéis analíticos focados em indicadores operacionais, produtividade e engenharia elétrica.
+Advanced CAD plugin ecosystem for:
 
----
+NanoCAD
+GStarCAD
+ZWCAD
 
-## 📈 GitHub Stats
+Features:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+Table generation
+Technical automation
+Drawing analysis
+DXF processing
+Engineering workflows
+</td> <td width="50%">
+🤖 Automation Systems
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+Platforms focused on:
 
----
+Web automation
+WhatsApp workflows
+PDF processing
+OCR pipelines
+Data extraction
+Internal process optimization
+</td> </tr> <tr> <td width="50%">
+📄 NFS-e Integration
 
-## 🌎 Contato
+Complete ABRASF workflow:
 
-- 💼 GitHub: https://github.com/Scavuzzi
-- 📧 Email: andre.scavuzzi@gmail.com
+XML generation
+Digital signing
+SOAP communication
+Automated issuance
+Validation pipeline
+</td> <td width="50%">
+📊 Data & BI
 
----
+Business intelligence solutions:
 
-⭐ Sempre buscando transformar processos complexos em soluções simples e automatizadas.
+Power BI dashboards
+KPI monitoring
+Operational analytics
+Engineering indicators
+Large-scale datasets
+</td> </tr> </table>
+📈 PLAYER STATS
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=cbd5e1"/> </div>
+🌌 CONTRIBUTION MAP
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true"/> </div>
+🧩 ARCHITECTURE INTERESTS
+> Desktop Systems
+> Engineering Platforms
+> CAD Integrations
+> Automation Pipelines
+> AI-assisted Workflows
+> Data Visualization
+> Electron Applications
+> Process Optimization
+🌐 CONNECT
+<div align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:chatgpt.dci@engeselt.com.br"> <img src="https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center">
+INITIALIZING NEXT PROJECT...
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a8a,100:38bdf8"/> </div> ```
