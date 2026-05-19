@@ -7,7 +7,7 @@ Meu perfil aqui é um espaço pessoal para registrar evolução, experimentos e 
 <br />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-%20MISS%C3%95ES%20ATIVAS%20-FFD700?style=flat&logoWidth=0&labelColor=222222&color=FFD700&fontFamily=Press+Start+2P" alt="Missões Ativas" height="35">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=false&vCenter=false&width=300&height=50&lines=MISS%C3%95ES+ATIVAS" alt="Missões Ativas">
 </p>
 
 Construir projetos bonitos, úteis e com personalidade.
