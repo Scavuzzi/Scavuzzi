@@ -6,7 +6,11 @@ Meu perfil aqui é um espaço pessoal para registrar evolução, experimentos e 
 
 <br />
 <h1 style="font-family: 'Press Start 2P', monospace; color: #FFD700; font-size: 32px; text-align: center; text-shadow: 4px 4px 0px #000000;image-rendering: pixelated; image-rendering: crisp-edges;">MISSÕES ATIVAS</h1>
-missões ativas
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=MISS%C3%95ES+ATIVAS" alt="Missões Ativas">
+</p>
+
 Construir projetos bonitos, úteis e com personalidade.
 Aprender melhor fazendo, quebrando, ajustando e refinando.
 Explorar desenvolvimento web, automações, dados e ferramentas que resolvem problemas reais.
