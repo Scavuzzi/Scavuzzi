@@ -18,8 +18,16 @@ Manter este perfil como uma vitrine viva do que estou estudando e criando.
 inventário
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,vscode&theme=dark" alt="Tech stack icons" /> <br /> <br /> <img src="https://img.shields.io/badge/Python-2D6CDF?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /> <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1F2937" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div> <br />
 tela de status
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> </div> <br />
+<div align="center"> 
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> 
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> 
+</div> 
+<br />
+
 mapa
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> </div> <br />
+<div align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
+</div> 
+<br />
 missões secundárias
 <table> <tr> <td width="50%"> <strong>Agora</strong><br /> Melhorando fundamentos, criando pequenos projetos e deixando meu fluxo de estudo mais consistente. </td> <td width="50%"> <strong>Próximo nível</strong><br /> Projetos mais completos, mais interface, mais automação e mais código com acabamento. </td> </tr> </table> <br /> <div align="center"> <a href="https://github.com/Scavuzzi"> <img src="https://img.shields.io/badge/GitHub-Scavuzzi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Scavuzzi" /> </a> <br /> <br /> <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2D6CDF,50:FFD166,100:F97316" alt="divider" /> </div>
