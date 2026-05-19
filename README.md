@@ -5,10 +5,9 @@ Oi, eu sou André Scavuzzi. Gosto de tecnologia com cara de coisa feita por gent
 Meu perfil aqui é um espaço pessoal para registrar evolução, experimentos e projetos que misturam código, criatividade e aprendizado constante.
 
 <br />
-<h1 style="font-family: 'Press Start 2P', monospace; color: #FFD700; font-size: 32px; text-align: center; text-shadow: 4px 4px 0px #000000;image-rendering: pixelated; image-rendering: crisp-edges;">MISSÕES ATIVAS</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=MISS%C3%95ES+ATIVAS" alt="Missões Ativas">
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FFD700&center=true&vCenter=true&width=500&height=70&type=static&lines=MISS%C3%95ES+ATIVAS" alt="Missões Ativas">
 </p>
 
 Construir projetos bonitos, úteis e com personalidade.
