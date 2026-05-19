@@ -1,3 +1,29 @@
+
+<style>
+    body {
+        /* Fundo escuro para dar destaque ao amarelo */
+        background-color: #1a1a1a; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        font-family: 'Press Start 2P', monospace;
+    }
+
+    .texto-pixel {
+        color: #FFD700; /* Cor amarela (Gold) */
+        font-size: 32px; /* Tamanho do texto */
+        text-align: center;
+        
+        /* Efeito de sombra preta para parecer um jogo de arcade antigo */
+        text-shadow: 4px 4px 0px #000000; 
+
+        /* Garante que o navegador não tente suavizar os pixels da fonte */
+        image-rendering: pixelated;
+        image-rendering: crisp-edges;
+    }
+</style>
 <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2D6CDF,45:7C3AED,100:F97316&text=Andr%C3%A9%20Scavuzzi&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=@Scavuzzi%20%7C%20perfil%20pessoal%20de%20desenvolvimento&descAlignY=58&animation=fadeIn" alt="André Scavuzzi banner" /> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=true&vCenter=true&width=760&lines=criando+interfaces%2C+scripts+e+ideias;transformando+curiosidade+em+codigo;sempre+upando+um+pouco+por+dia" alt="Typing SVG" /> </div> <br />
 checkpoint
 Oi, eu sou André Scavuzzi. Gosto de tecnologia com cara de coisa feita por gente: interfaces bem pensadas, automações que economizam tempo e pequenos projetos que deixam uma ideia mais jogável, visual e interessante.
@@ -5,6 +31,7 @@ Oi, eu sou André Scavuzzi. Gosto de tecnologia com cara de coisa feita por gent
 Meu perfil aqui é um espaço pessoal para registrar evolução, experimentos e projetos que misturam código, criatividade e aprendizado constante.
 
 <br />
+<h1 class="texto-pixel">MISSÕES ATIVAS</h1>
 missões ativas
 Construir projetos bonitos, úteis e com personalidade.
 Aprender melhor fazendo, quebrando, ajustando e refinando.
