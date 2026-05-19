@@ -7,7 +7,7 @@ Meu perfil aqui é um espaço pessoal para registrar evolução, experimentos e 
 <br />
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FFD700&center=false&vCenter=false&width=400&height=70&type=static&lines=MISS%C3%95ES+ATIVAS" alt="Missões Ativas">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FFD700&center=false&vCenter=false&width=300&height=50&type=static&lines=MISS%C3%95ES+ATIVAS" alt="Missões Ativas">
 </p>
 
 Construir projetos bonitos, úteis e com personalidade.
