@@ -15,14 +15,11 @@ This GitHub profile is part portfolio, part sandbox, and part engineering journa
 
 Ultimately, it is a testament to my dedication to the craft of software engineering — even on the days when it doesn't make it easy.
 
----
 
 ## Current Focus
 
 Particulary interested by solutions which combine logic and utility: web applications, RPA, data analysis and projects that solve real-word problems while maintaining what makes them unique.
 
-
----
 
 ## Featured Projects
 
@@ -50,7 +47,9 @@ A geospatial tool designed to import coordinate points, visualize routes on an i
 - **Stack:** Python, JavaScript, Leaflet/Mapbox, KMZ/KML Parsing.
 - **Key Takeaways:** Geospatial rendering, automated distance/matrix calculation, data export pipelines, and dynamic visual layouts.
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/assets/pixel-heart-line.gif" width="400px" alt="Pixel Divider" />
+</div>
 
 ## Engineering Philosophy
 
@@ -60,7 +59,6 @@ I naturally think about structure, maintainability, user experience, and system 
 
 Even so, I always leave room for experimentation. Not every project needs to be perfect from day one. Honestly, many of my best solutions started as side-experiments, technical curiosity, and sudden hyperfocus, which always makes them the most rewarding to complete.
 
----
 
 ## Technical Inventory
 
@@ -68,7 +66,15 @@ Technologies, languages, and tools I build with, study, or am currently explorin
 
 [Badges / Tech Stack Icons]
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,vscode&theme=dark" alt="Tech stack icons" /> <br /> <br /> <img src="https://img.shields.io/badge/Python-2D6CDF?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /> <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1F2937" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div> <br />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<br />
+<br />
+<img src="https://img.shields.io/badge/Python-2D6CDF?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1F2937" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div> <br />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=23272A" alt="Python" />
@@ -78,9 +84,14 @@ Technologies, languages, and tools I build with, study, or am currently explorin
 </p>
 
 
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux,js)](https://skillicons.dev)
+
+
+![Status de Engenharia](https://github-readme-stats.vercel.tech/api?username=<SEU-USUARIO>&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
+
+
 - **English Proficiency:** CEFR B2 (Independent User / Professional Communication)
 
----
 
 ## Status Screen
 
@@ -98,7 +109,6 @@ A look at my current engineering vital signs:
 
 
 
----
 
 ## Progress Map
 
@@ -113,7 +123,6 @@ A visual record of my learning journey, contributions, and active projects.
 </div> 
 <br />
 
----
 
 ## Side Quests
 
@@ -126,7 +135,6 @@ A visual record of my learning journey, contributions, and active projects.
 
 <table> <tr> <td width="50%"> <strong>Agora</strong><br /> Melhorando fundamentos, criando pequenos projetos e deixando meu fluxo de estudo mais consistente. </td> <td width="50%"> <strong>Próximo nível</strong><br /> Projetos mais completos, mais interface, mais automação e mais código com acabamento. </td> </tr> </table> <br /> <div align="center"> <a href="https://github.com/Scavuzzi"> <img src="https://img.shields.io/badge/GitHub-Scavuzzi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Scavuzzi" /> </a> <br /> <br /> <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2D6CDF,50:FFD166,100:F97316" alt="divider" /> </div>
 
----
 
 ## Next Level
 
