@@ -66,8 +66,12 @@ Technologies, languages, and tools I build with, study, or am currently explorin
 
 [Badges / Tech Stack Icons]
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=23272A" alt="Python" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=23272A" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=23272A" alt="C#" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=23272A" alt="Docker" />
+</p>
 <br />
 <br />
 <img src="https://img.shields.io/badge/Python-2D6CDF?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
@@ -76,18 +80,10 @@ Technologies, languages, and tools I build with, study, or am currently explorin
 <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div> <br />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=23272A" alt="Python" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=23272A" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=23272A" alt="C#" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=23272A" alt="Docker" />
-</p>
-
-
 [![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux,js)](https://skillicons.dev)
 
 
-![Status de Engenharia](https://github-readme-stats.vercel.tech/api?username=<SEU-USUARIO>&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
+![Status de Engenharia](https://github-readme-stats.vercel.tech/api?username=<Scavuzzi>&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
 
 
 - **English Proficiency:** CEFR B2 (Independent User / Professional Communication)
