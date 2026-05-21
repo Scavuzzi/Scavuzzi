@@ -74,9 +74,10 @@ Technologies, languages, and tools I build with, study, or am currently explorin
 <img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1F2937" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux,js"/>
 </div> 
 
-[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux,js)](https://skillicons.dev)
+
 
 
 ![Status de Engenharia](https://github-readme-stats.vercel.tech/api?username=<Scavuzzi>&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
