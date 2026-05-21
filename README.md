@@ -64,24 +64,23 @@ Even so, I always leave room for experimentation. Not every project needs to be 
 
 Technologies, languages, and tools I build with, study, or am currently exploring:
 
-[Badges / Tech Stack Icons]
-
-
-
 <div align="center"> 
-<img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Python-2D6CDF?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-<img src="https://img.shields.io/badge/C%23-7C3AED?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1F2937" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-F97316?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux,js"/>
-</div> 
+  <!-- Ícones de Skill (Guia Superior) -->
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux" alt="Skills Matrix" />
+  <br><br>
+  
+  <!-- Badges Customizadas (Gamer UI Style) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E1E2E" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1E1E2E" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=1E1E2E" alt=".NET" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1E2E" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E1E2E" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E1E2E" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1E1E2E" alt="Linux" />
+</div>
 
 
-
-
-![Status de Engenharia](https://github-readme-stats.vercel.tech/api?username=<Scavuzzi>&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
-
+![Status de Engenharia](https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
 
 - **English Proficiency:** CEFR B2 (Independent User / Professional Communication)
 
