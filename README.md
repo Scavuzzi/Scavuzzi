@@ -66,8 +66,8 @@ Technologies, languages, and tools I build with, study, or am currently explorin
 
 <div align="center"> 
   <!-- Ícones de Skill (Guia Superior) -->
-  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux" alt="Skills Matrix" />
-  <br><br>
+  <!-- <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux" alt="Skills Matrix" />
+  <br><br> -->
   
   <!-- Badges Customizadas (Gamer UI Style) -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E1E2E" alt="Python" />
@@ -76,7 +76,7 @@ Technologies, languages, and tools I build with, study, or am currently explorin
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1E2E" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E1E2E" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E1E2E" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1E1E2E" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=1E1E2E" alt="Linux" />
 </div>
 
 
