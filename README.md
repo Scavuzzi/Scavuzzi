@@ -3,6 +3,8 @@
 # Hi, i'm André!
 ### Software Engineer | Python & .NET Specialist
 
+[Leia em Português](README.pt-br.md)
+
 ## Who is André?
 
 I'm a software engineer driven by creativity and by a relentless focus on turning complex ideas into functional solutions through lines of code
