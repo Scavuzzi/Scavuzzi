@@ -103,9 +103,10 @@ A geospatial tool designed to import coordinate points, visualize routes on an i
 A look at my current engineering vital signs:
 
 [GitHub Status]
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=radical)
 
 <div align="center"> 
+  
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> 
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> 
 </div> 
