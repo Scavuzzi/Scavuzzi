@@ -97,7 +97,7 @@ Um registro visual da minha jornada de aprendizado, contribuições e projetos a
 
 
 
-## Engineering Philosophy
+## Filosofia de Engenharia
 
 > "Entenda o problema a fundo antes de escrever uma única linha de código."
 
