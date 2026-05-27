@@ -1,3 +1,5 @@
+> 🇧🇷 **Prefere ler em português?** [Clique aqui para acessar o README.pt-br.md](README.pt-br.md)
+
 <!-- <div align="center"> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2D6CDF,45:7C3AED,100:F97316&text=Andr%C3%A9%20Scavuzzi&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=@Scavuzzi%20%7C%20Backend%20Engineer&descAlignY=58&animation=fadeIn" alt="André Scavuzzi banner" /> 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=true&vCenter=true&width=760&lines=building+interfaces%2C+scripts+and+ideas;turning+curiosity+into+production+code;leveling+up+one+commit+a+day" alt="Typing SVG" /> 
@@ -18,8 +20,6 @@
 ```
 # Hi, i'm André!
 ### Software Engineer | Python & .NET Specialist
-
-> 🇧🇷 **Prefere ler em português?** [Clique aqui para acessar o README.pt-br.md](README.pt-br.md)
 
 ## About Me
 
