@@ -88,12 +88,13 @@ A look at my current engineering vital signs:
 
 A visual record of my learning journey, contributions, and active projects.
 
-![snake animation](https://github.com/Scavuzzi/Scavuzzi/blob/output/github-contribution-grid-snake-dark.svg)
-
 <div align="center">
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=BF91F3&point=638FDA&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
 </div>
+
+![snake animation](https://github.com/Scavuzzi/Scavuzzi/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## Engineering Philosophy
