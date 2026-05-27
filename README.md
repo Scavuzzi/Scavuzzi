@@ -1,16 +1,10 @@
 > 🇧🇷 **Prefere ler em português?** [Clique aqui para acessar o README.pt-br.md](README.pt-br.md)
 
-<!-- <div align="center"> 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2D6CDF,45:7C3AED,100:F97316&text=Andr%C3%A9%20Scavuzzi&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=@Scavuzzi%20%7C%20Backend%20Engineer&descAlignY=58&animation=fadeIn" alt="André Scavuzzi banner" /> 
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=true&vCenter=true&width=760&lines=building+interfaces%2C+scripts+and+ideas;turning+curiosity+into+production+code;leveling+up+one+commit+a+day" alt="Typing SVG" /> 
-</div> 
-<br /> -->
-
 ```json
 {
   "engineer": "André Scavuzzi",
-  "role": "Backend Specialist",
-  "focus": ["Decoupled Systems", "Scalable RPA Pipelines", "Data Ingestion"],
+  "role": "Backend Engineer",
+  "core_focus": ["Decoupled Systems", "Scalable RPA Pipelines", "Data Ingestion"],
   "stack": {
     "primary": ["Python", "C#", ".NET Core"],
     "infrastructure": ["Docker", "PostgreSQL", "Linux Ecosystem"]
@@ -19,7 +13,8 @@
 }
 ```
 # Hi, i'm André!
-### Software Engineer | Python & .NET Specialist
+### Software Engineer | Focused on Python & .NET Ecosystems
+
 
 ## About Me
 
@@ -32,6 +27,7 @@ My work spans software development, automation pipelines and data integration, I
 This GitHub profile is part portfolio, part sandbox, and part engineering journal. It’s where I document my studies, architectural experiments, ongoing projects, refactoring sessions, useful mistakes, and deep technical interests.
 
 Ultimately, it is a testament to my dedication to the craft of software engineering — even on the days when it doesn't make it easy.
+
 
 ## Technical Inventory
 
@@ -81,7 +77,6 @@ A geospatial tool designed to import coordinate points, visualize routes on an i
 
 A look at my current engineering vital signs:
 
-
 <div align="center"> 
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> 
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> 
@@ -112,9 +107,6 @@ I naturally think about structure, maintainability, user experience, and system 
 Even so, I always leave room for experimentation. Not every project needs to be perfect from day one. Honestly, many of my best solutions started as side-experiments, technical curiosity, and sudden hyperfocus, which always makes them the most rewarding to complete.
 
 
-
-
-
 ## Current Focus & Roadmap
 
 Particulary interested by solutions which combine logic and utility: web applications, RPA, data analysis and projects that solve real-word problems while maintaining what makes them unique.
@@ -131,24 +123,9 @@ Particulary interested by solutions which combine logic and utility: web applica
 
 ### Next Level
 
-My primary objective right now is elevating the architectural design of everything I build. I am shifting my focus toward cleaner engineering by creating systems that are modular, decoupled, secure, and ready to scale horizontally.
+My current engineering goal is to continuously refine the architectural design of my systems. I am focused on deepening my hands-on application of modularity, decoupled services, and horizontal scaling.
 
-It's not about just writing *more* code; it's about revisiting foundational principles and strengthening the bedrock of my engineering skills. To fast-track this growth, I treat software engineering as an immersive craft. I tune into technical podcasts, study engineering case studies, and am currently deep into foundational literature: *The Pragmatic Programmer*, *Clean Architecture* (Robert C. Martin), and *Implementing Domain-Driven Design* (Vaughn Vernon).
-
-<table> 
-<tr> 
-<td width="50%"> 
-<strong>Current Quest ⚔️</strong><br />
-Deepening software design patterns, refining concurrent processing in Python/.NET, and stabilizing delivery pipelines.
-</td> 
-<td width="50%"> 
-<strong>Next Level 🚀</strong><br />
-Building complex distributed architectures, implementing rigorous DDD, and expanding automation infrastructure with bulletproof polish.
-</td> 
-</tr> 
-</table> 
-
-<br /> 
+To guide this evolution, I constantly benchmark my practical experience against foundational software engineering paradigms, currently revisiting and applying concepts from: *The Pragmatic Programmer*, *Clean Architecture* (Robert C. Martin), and *Implementing Domain-Driven Design* (Vaughn Vernon).
 
 <div align="center"> 
   <a href="https://github.com/Scavuzzi"> 
