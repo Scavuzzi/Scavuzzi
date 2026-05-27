@@ -93,32 +93,70 @@ A look at my current engineering vital signs:
 [GitHub Status]
 [Most Used Languages]
 
-
 <div align="center"> 
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> 
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> 
 </div> 
 <br />
 
+<!-- 
+<div align="center"> 
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> 
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> 
+</div> 
+<br /> -->
+
 
 ## Progress Map
 
 A visual record of my learning journey, contributions, and active projects.
 
-![GitHub Snake Contributions](https://raw.githubusercontent.com/<Scavuzzi>/<Scavuzzi>/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Scavuzzi/Scavuzzi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contributions" />
+  <img src="https://github-readme-pacman.vercel.app/api?username=Scavuzzi&theme=tokyonight" alt="Pacman Contributions" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
+</div>
+
+<!-- ![GitHub Snake Contributions](https://raw.githubusercontent.com/<Scavuzzi>/<Scavuzzi>/output/github-contribution-grid-snake.svg)
 
 ![Pacman Contributions](https://github-readme-pacman.vercel.app/api?username=<Scavuzzi>&theme=tokyonight)
 
 <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
 </div> 
-<br />
+<br /> -->
 
 ## Current Focus
 
 Particulary interested by solutions which combine logic and utility: web applications, RPA, data analysis and projects that solve real-word problems while maintaining what makes them unique.
 
+<table> 
+<tr> 
+<td width="50%"> 
+<strong>Current Quest ⚔️</strong><br />
+Deepening software design patterns, refining concurrent processing in Python/.NET, and stabilizing delivery pipelines.
+</td> 
+<td width="50%"> 
+<strong>Next Level 🚀</strong><br />
+Building complex distributed architectures, implementing rigorous DDD, and expanding automation infrastructure with bulletproof polish.
+</td> 
+</tr> 
+</table> 
+
+<br /> 
+
+<div align="center"> 
+  <a href="https://github.com/Scavuzzi"> 
+    <img src="https://img.shields.io/badge/GitHub-Scavuzzi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Scavuzzi" /> 
+  </a> 
+  <br /><br /> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2D6CDF,50:FFD166,100:F97316" alt="divider" /> 
+</div>
+
 ## Engineering Philosophy
+
+> "Understand the problem deeply before writing a single line of code."
 
 If I wanted to use corporate buzzwords, I would say something like "Syntax over Semantics" or "Architecture over Running Code." But the truth is simpler: I just prefer to deeply understand the problem before writing a single line of code.
 
