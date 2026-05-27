@@ -1,6 +1,17 @@
-<div align="center"> 
+<!-- <div align="center"> 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2D6CDF,45:7C3AED,100:F97316&text=Andr%C3%A9%20Scavuzzi&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=@Scavuzzi%20%7C%20Backend%20Engineer&descAlignY=58&animation=fadeIn" alt="André Scavuzzi banner" /> 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=true&vCenter=true&width=760&lines=building+interfaces%2C+scripts+and+ideas;turning+curiosity+into+production+code;leveling+up+one+commit+a+day" alt="Typing SVG" /> 
+</div> 
+<br /> -->
+
+<div align="center"> 
+  <!-- Banner Principal Estilo UI Dark/Neon -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0D1117,50:1F2937,100:111827&text=ANDRÉ%20SCAVUZZI&fontColor=38BDF8&fontSize=38&fontAlignY=42&fontStyle=bold&font=Orbitron&desc=BACKEND%20ENGINEER%20%7C%20SYSTEMS%20ARCHITECT&descAlignY=65&descColor=9CA3AF&descSize=13&stroke=2D6CDF&strokeWidth=1" alt="André Scavuzzi Header" />
+  
+  <br />
+  
+  <!-- Typing SVG Refinado e Técnico -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%5B%2B%5D+designing+decoupled+and+scalable+architectures;%5B%2B%5D+specializing+in+Python+%2F+.NET+ecosystems;%5B%2B%5D+transforming+complex+logic+into+production+code" alt="Typing SVG" />
 </div> 
 <br />
 
@@ -62,25 +73,25 @@ Technologies, languages, and tools I build with, study, or am currently explorin
 A platform designed to process documents, extract structured information, validate data integrity, and automate repetitive document analysis workflows.
 
 - **Stack:** Python, OCR Engines, PDF Parsing, Data Validation, Streamlit/Dashboards.
-- **Key Takeaways:** Document parsing pipelines, automated validation heuristics, simulated data generation for production-like staging, and operational back-office interfaces.
+- **Key Achievements:** Document parsing pipelines, automated validation heuristics, simulated data generation for production-like staging, and operational back-office interfaces.
 
 ### OpenCAD Toolkit
 An open-source toolkit for CAD automation capable of parsing DXF files, manipulating drawing layers, calculating entity metrics, and generating reports.
 
 - **Stack:** C#, DXF Specification, CAD APIs, Modular Architecture.
-- **Key Takeaways:** Geometric parsing, CLI/technical commands execution, structured Excel export, and a pure, zero-dependency public implementation.
+- **Key Achievements:** Geometric parsing, CLI/technical commands execution, structured Excel export, and a pure, zero-dependency public implementation.
 
 ### Enterprise RBAC System
 A robust access control API built to manage users, groups, roles, granular permissions, and scopes.
 
 - **Stack:** C# / Python (Backend Core), JWT, RBAC Architecture, Multi-tenant Isolation, Relational Database.
-- **Key Takeaways:** Hierarchical permission modeling, stateless authentication, granular authorization scopes, and interactive API documentation via Swagger.
+- **Key Achievements:** Hierarchical permission modeling, stateless authentication, granular authorization scopes, and interactive API documentation via Swagger.
 
 ### FieldRoute Optimizer
 A geospatial tool designed to import coordinate points, visualize routes on an interactive map, and optimize waypoint sequences for field visits.
 
 - **Stack:** Python, JavaScript, Leaflet/Mapbox, KMZ/KML Parsing.
-- **Key Takeaways:** Geospatial rendering, automated distance/matrix calculation, data export pipelines, and dynamic visual layouts.
+- **Key Achievements:** Geospatial rendering, automated distance/matrix calculation, data export pipelines, and dynamic visual layouts.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/assets/pixel-heart-line.gif" width="400px" alt="Pixel Divider" />
@@ -127,9 +138,40 @@ A visual record of my learning journey, contributions, and active projects.
 </div> 
 <br /> -->
 
-## Current Focus
+
+## Engineering Philosophy
+
+> "Understand the problem deeply before writing a single line of code."
+
+If I wanted to use corporate buzzwords, I would say something like "Syntax over Semantics" or "Architecture over Running Code." But the truth is simpler: I just prefer to deeply understand the problem before writing a single line of code.
+
+I naturally think about structure, maintainability, user experience, and system evolution. To me, a great system isn't just one that "works"; it’s one that remains comprehensible months later, scales without turning into tech debt, and respects the time of both the developer and the end-user.
+
+Even so, I always leave room for experimentation. Not every project needs to be perfect from day one. Honestly, many of my best solutions started as side-experiments, technical curiosity, and sudden hyperfocus, which always makes them the most rewarding to complete.
+
+
+
+
+
+## Current Focus & Roadmap
 
 Particulary interested by solutions which combine logic and utility: web applications, RPA, data analysis and projects that solve real-word problems while maintaining what makes them unique.
+
+### Side Quests
+
+- Solidify core computer science fundamentals.
+- Build projects with production-ready polish and finish.
+- Continuous improvement of software architecture and code organization.
+- Explore the intersection of interfaces, automation, and data pipelines.
+- Transform simple, practical ideas into highly usable internal tools.
+- Write code that gracefully withstands the test of time.
+
+
+### Next Level
+
+My primary objective right now is elevating the architectural design of everything I build. I am shifting my focus toward cleaner engineering by creating systems that are modular, decoupled, secure, and ready to scale horizontally.
+
+It's not about just writing *more* code; it's about revisiting foundational principles and strengthening the bedrock of my engineering skills. To fast-track this growth, I treat software engineering as an immersive craft. I tune into technical podcasts, study engineering case studies, and am currently deep into foundational literature: *The Pragmatic Programmer*, *Clean Architecture* (Robert C. Martin), and *Implementing Domain-Driven Design* (Vaughn Vernon).
 
 <table> 
 <tr> 
@@ -153,33 +195,3 @@ Building complex distributed architectures, implementing rigorous DDD, and expan
   <br /><br /> 
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2D6CDF,50:FFD166,100:F97316" alt="divider" /> 
 </div>
-
-## Engineering Philosophy
-
-> "Understand the problem deeply before writing a single line of code."
-
-If I wanted to use corporate buzzwords, I would say something like "Syntax over Semantics" or "Architecture over Running Code." But the truth is simpler: I just prefer to deeply understand the problem before writing a single line of code.
-
-I naturally think about structure, maintainability, user experience, and system evolution. To me, a great system isn't just one that "works"; it’s one that remains comprehensible months later, scales without turning into tech debt, and respects the time of both the developer and the end-user.
-
-Even so, I always leave room for experimentation. Not every project needs to be perfect from day one. Honestly, many of my best solutions started as side-experiments, technical curiosity, and sudden hyperfocus, which always makes them the most rewarding to complete.
-
-
-
-## Side Quests
-
-- Solidify core computer science fundamentals.
-- Build projects with production-ready polish and finish.
-- Continuous improvement of software architecture and code organization.
-- Explore the intersection of interfaces, automation, and data pipelines.
-- Transform simple, practical ideas into highly usable internal tools.
-- Write code that gracefully withstands the test of time.
-
-<table> <tr> <td width="50%"> <strong>Agora</strong><br /> Melhorando fundamentos, criando pequenos projetos e deixando meu fluxo de estudo mais consistente. </td> <td width="50%"> <strong>Próximo nível</strong><br /> Projetos mais completos, mais interface, mais automação e mais código com acabamento. </td> </tr> </table> <br /> <div align="center"> <a href="https://github.com/Scavuzzi"> <img src="https://img.shields.io/badge/GitHub-Scavuzzi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Scavuzzi" /> </a> <br /> <br /> <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2D6CDF,50:FFD166,100:F97316" alt="divider" /> </div>
-
-
-## Next Level
-
-My primary objective right now is elevating the architectural design of everything I build. I am shifting my focus toward cleaner engineering by creating systems that are modular, decoupled, secure, and ready to scale horizontally.
-
-It's not about just writing *more* code; it's about revisiting foundational principles and strengthening the bedrock of my engineering skills. To fast-track this growth, I treat software engineering as an immersive craft. I tune into technical podcasts, study engineering case studies, and am currently deep into foundational literature: *The Pragmatic Programmer*, *Clean Architecture* (Robert C. Martin), and *Implementing Domain-Driven Design* (Vaughn Vernon).
