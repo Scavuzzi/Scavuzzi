@@ -92,7 +92,7 @@ A visual record of my learning journey, contributions, and active projects.
 
 <div align="center">
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=638FDA&point=BF91F3&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
 </div>
 
 
