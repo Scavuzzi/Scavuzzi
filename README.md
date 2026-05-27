@@ -93,7 +93,7 @@ A look at my current engineering vital signs:
 
 A visual record of my learning journey, contributions, and active projects.
 
-![snake animation](https://github.com/Scavuzzi/Scavuzzi/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Scavuzzi/Scavuzzi/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <br><br>
