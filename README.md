@@ -47,24 +47,6 @@ Technologies, languages, and tools I build with, study, or am currently explorin
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=1E1E2E" alt="Linux" />
 </div>
 
-<!-- <div align="center">  -->
-  <!-- Ícones de Skill (Guia Superior) -->
-  <!-- <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux" alt="Skills Matrix" />
-  <br><br> -->
-  
-  <!-- Badges Customizadas (Gamer UI Style) -->
-  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E1E2E" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1E1E2E" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=1E1E2E" alt=".NET" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1E2E" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E1E2E" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E1E2E" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=1E1E2E" alt="Linux" />
-</div> -->
-
-
-![Status de Engenharia](https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
-
 - **English Proficiency:** CEFR B2 (Independent User / Professional Communication)
 
 
@@ -94,51 +76,29 @@ A geospatial tool designed to import coordinate points, visualize routes on an i
 - **Stack:** Python, JavaScript, Leaflet/Mapbox, KMZ/KML Parsing.
 - **Key Achievements:** Geospatial rendering, automated distance/matrix calculation, data export pipelines, and dynamic visual layouts.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/assets/pixel-heart-line.gif" width="400px" alt="Pixel Divider" />
-</div>
 
 ## Status Screen
 
 A look at my current engineering vital signs:
 
-[GitHub Status]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=radical)
 
 <div align="center"> 
-  
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> 
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> 
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /> 
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" /> 
 </div> 
 <br />
-
-<!-- 
-<div align="center"> 
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Scavuzzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&icon_color=F97316&text_color=E5E7EB" alt="GitHub stats" /> 
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Scavuzzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD166&text_color=E5E7EB" alt="Top languages" /> 
-</div> 
-<br /> -->
 
 
 ## Progress Map
 
 A visual record of my learning journey, contributions, and active projects.
 
+![snake animation](https://github.com/Scavuzzi/Scavuzzi/blob/output/github-contribution-grid-snake2.svg)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Scavuzzi/Scavuzzi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contributions" />
-  <img src="https://github-readme-pacman.vercel.app/api?username=Scavuzzi&theme=tokyonight" alt="Pacman Contributions" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
 </div>
-
-<!-- ![GitHub Snake Contributions](https://raw.githubusercontent.com/<Scavuzzi>/<Scavuzzi>/output/github-contribution-grid-snake.svg)
-
-![Pacman Contributions](https://github-readme-pacman.vercel.app/api?username=<Scavuzzi>&theme=tokyonight)
-
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
-</div> 
-<br /> -->
 
 
 ## Engineering Philosophy
