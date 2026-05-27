@@ -133,5 +133,5 @@ To guide this evolution, I constantly benchmark my practical experience against 
     <img src="https://img.shields.io/badge/GitHub-Scavuzzi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Scavuzzi" /> 
   </a> 
   <br /><br /> 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2D6CDF,50:FFD166,100:F97316" alt="divider" /> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:BF91F3,50:9190E7,100:638FDA" alt="divider" /> 
 </div>
