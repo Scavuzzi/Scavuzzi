@@ -4,17 +4,18 @@
 </div> 
 <br /> -->
 
-<div align="center"> 
-  <!-- Banner Principal Estilo UI Dark/Neon -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0D1117,50:1F2937,100:111827&text=ANDRÉ%20SCAVUZZI&fontColor=38BDF8&fontSize=38&fontAlignY=42&fontStyle=bold&font=Orbitron&desc=BACKEND%20ENGINEER%20%7C%20SYSTEMS%20ARCHITECT&descAlignY=65&descColor=9CA3AF&descSize=13&stroke=2D6CDF&strokeWidth=1" alt="André Scavuzzi Header" />
-  
-  <br />
-  
-  <!-- Typing SVG Refinado e Técnico -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=%5B%2B%5D+designing+decoupled+and+scalable+architectures;%5B%2B%5D+specializing+in+Python+%2F+.NET+ecosystems;%5B%2B%5D+transforming+complex+logic+into+production+code" alt="Typing SVG" />
-</div> 
-<br />
-
+```json
+{
+  "engineer": "André Scavuzzi",
+  "role": "Backend Specialist",
+  "focus": ["Decoupled Systems", "Scalable RPA Pipelines", "Data Ingestion"],
+  "stack": {
+    "primary": ["Python", "C#", ".NET Core"],
+    "infrastructure": ["Docker", "PostgreSQL", "Linux Ecosystem"]
+  },
+  "philosophy": "Understand the problem deeply before writing a single line of code."
+}
+```
 # Hi, i'm André!
 ### Software Engineer | Python & .NET Specialist
 
