@@ -1,11 +1,15 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2D6CDF,45:7C3AED,100:F97316&text=Andr%C3%A9%20Scavuzzi&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=@Scavuzzi%20%7C%20Desenvolvedor%20Backend&descAlignY=58&animation=fadeIn" alt="André Scavuzzi banner" /> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=true&vCenter=true&width=760&lines=criando+interfaces%2C+scripts+e+ideias;transformando+curiosidade+em+codigo;sempre+upando+um+pouco+por+dia" alt="Typing SVG" /> </div> <br />
+<div align="center"> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2D6CDF,45:7C3AED,100:F97316&text=Andr%C3%A9%20Scavuzzi&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=@Scavuzzi%20%7C%20Backend%20Engineer&descAlignY=58&animation=fadeIn" alt="André Scavuzzi banner" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2600&pause=900&color=FFD166&center=true&vCenter=true&width=760&lines=building+interfaces%2C+scripts+and+ideas;turning+curiosity+into+production+code;leveling+up+one+commit+a+day" alt="Typing SVG" /> 
+</div> 
+<br />
 
 # Hi, i'm André!
 ### Software Engineer | Python & .NET Specialist
 
-[Leia em Português](README.pt-br.md)
+> 🇧🇷 **Prefere ler em português?** [Clique aqui para acessar o README.pt-br.md](README.pt-br.md)
 
-## Who is André?
+## About Me
 
 I'm a software engineer driven by creativity and by a relentless focus on turning complex ideas into functional solutions through lines of code
 
@@ -17,10 +21,39 @@ This GitHub profile is part portfolio, part sandbox, and part engineering journa
 
 Ultimately, it is a testament to my dedication to the craft of software engineering — even on the days when it doesn't make it easy.
 
+## Technical Inventory
 
-## Current Focus
+Technologies, languages, and tools I build with, study, or am currently exploring:
 
-Particulary interested by solutions which combine logic and utility: web applications, RPA, data analysis and projects that solve real-word problems while maintaining what makes them unique.
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E1E2E" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1E1E2E" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=1E1E2E" alt=".NET" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1E2E" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E1E2E" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E1E2E" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=1E1E2E" alt="Linux" />
+</div>
+
+<!-- <div align="center">  -->
+  <!-- Ícones de Skill (Guia Superior) -->
+  <!-- <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux" alt="Skills Matrix" />
+  <br><br> -->
+  
+  <!-- Badges Customizadas (Gamer UI Style) -->
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E1E2E" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1E1E2E" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=1E1E2E" alt=".NET" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1E2E" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E1E2E" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E1E2E" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=1E1E2E" alt="Linux" />
+</div> -->
+
+
+![Status de Engenharia](https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
+
+- **English Proficiency:** CEFR B2 (Independent User / Professional Communication)
 
 
 ## Featured Projects
@@ -53,40 +86,6 @@ A geospatial tool designed to import coordinate points, visualize routes on an i
   <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/assets/pixel-heart-line.gif" width="400px" alt="Pixel Divider" />
 </div>
 
-## Engineering Philosophy
-
-If I wanted to use corporate buzzwords, I would say something like "Syntax over Semantics" or "Architecture over Running Code." But the truth is simpler: I just prefer to deeply understand the problem before writing a single line of code.
-
-I naturally think about structure, maintainability, user experience, and system evolution. To me, a great system isn't just one that "works"; it’s one that remains comprehensible months later, scales without turning into tech debt, and respects the time of both the developer and the end-user.
-
-Even so, I always leave room for experimentation. Not every project needs to be perfect from day one. Honestly, many of my best solutions started as side-experiments, technical curiosity, and sudden hyperfocus, which always makes them the most rewarding to complete.
-
-
-## Technical Inventory
-
-Technologies, languages, and tools I build with, study, or am currently exploring:
-
-<div align="center"> 
-  <!-- Ícones de Skill (Guia Superior) -->
-  <!-- <img src="https://skillicons.dev/icons?i=python,cs,dotnet,docker,postgres,git,linux" alt="Skills Matrix" />
-  <br><br> -->
-  
-  <!-- Badges Customizadas (Gamer UI Style) -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1E1E2E" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1E1E2E" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=1E1E2E" alt=".NET" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1E2E" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1E1E2E" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1E1E2E" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=1E1E2E" alt="Linux" />
-</div>
-
-
-![Status de Engenharia](https://github-readme-stats.vercel.app/api?username=Scavuzzi&show_icons=true&theme=retro&include_all_commits=true&count_private=true)
-
-- **English Proficiency:** CEFR B2 (Independent User / Professional Communication)
-
-
 ## Status Screen
 
 A look at my current engineering vital signs:
@@ -102,8 +101,6 @@ A look at my current engineering vital signs:
 <br />
 
 
-
-
 ## Progress Map
 
 A visual record of my learning journey, contributions, and active projects.
@@ -116,6 +113,19 @@ A visual record of my learning journey, contributions, and active projects.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scavuzzi&bg_color=0D1117&color=E5E7EB&line=FFD166&point=F97316&area=true&area_color=7C3AED&hide_border=true" alt="Contribution activity graph" /> 
 </div> 
 <br />
+
+## Current Focus
+
+Particulary interested by solutions which combine logic and utility: web applications, RPA, data analysis and projects that solve real-word problems while maintaining what makes them unique.
+
+## Engineering Philosophy
+
+If I wanted to use corporate buzzwords, I would say something like "Syntax over Semantics" or "Architecture over Running Code." But the truth is simpler: I just prefer to deeply understand the problem before writing a single line of code.
+
+I naturally think about structure, maintainability, user experience, and system evolution. To me, a great system isn't just one that "works"; it’s one that remains comprehensible months later, scales without turning into tech debt, and respects the time of both the developer and the end-user.
+
+Even so, I always leave room for experimentation. Not every project needs to be perfect from day one. Honestly, many of my best solutions started as side-experiments, technical curiosity, and sudden hyperfocus, which always makes them the most rewarding to complete.
+
 
 
 ## Side Quests
